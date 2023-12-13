@@ -643,3 +643,54 @@ section#store-items .card .label h5 {
     aspect-ratio: 1;
     margin: 5px;
 }
+
+.contact#feedback .form {
+    width: min(100%, 550px);
+}
+
+/* services page */
+h2.title {
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3rem;
+}
+
+.services.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.services.card-container .card {
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.services.card-container .card .image-container {
+    width: 100%;
+    aspect-ratio: 1;
+}
+
+.services.card-container .card .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.services.card-container .card h4 {
+    font-weight: 300;
+    font-size: 1.3rem;
+}
+
+/* store designs */
+.shop.coming-soon {
+    height: min(100vh, 600px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
