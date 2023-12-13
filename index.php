@@ -109,37 +109,42 @@
                     <h5>Make-up</h5>
                 </div>
             </div>
+            <div class="icon">
+                <div class="image-container">
+                    <img src="assets/images/clothes-01.jpg" alt="">
+                </div>
+                <div class="label">
+                    <h5>Clothes</h5>
+                </div>
+            </div>
         </div>
     </section>
-    <section id="store-items">
-        <!-- feature some shop items that are popular
-            the shop page won't be ready for a little while so I would
-        have to design a coming soon animation -->
+    <!-- <section id="store-items">
         <div class="container">
             <h4>Featured Products</h4>
             <div class="card-container">
                 <div class="card">
                     <div class="image-container">
-                        <img src="assets/images/healing-ointment-cerave.png" alt="">
+                        <img src="assets/images/wig-01.jpg" alt="">
                     </div>
                     <div class="label">
-                        <h5>Healing Ointment</h5>
+                        <h5>Human Hair Wigs</h5>
                     </div>
                 </div>
                 <div class="card">
                     <div class="image-container">
-                        <img src="assets/images/healing-ointment-cerave.png" alt="">
+                        <img src="assets/images/bag-01.jpg" alt="">
                     </div>
                     <div class="label">
-                        <h5>Healing Ointment</h5>
+                        <h5>Leather Bag</h5>
                     </div>
                 </div>
                 <div class="card">
                     <div class="image-container">
-                        <img src="assets/images/healing-ointment-cerave.png" alt="">
+                        <img src="assets/images/clothes-01.jpg" alt="">
                     </div>
                     <div class="label">
-                        <h5>Healing Ointment</h5>
+                        <h5>Clothes</h5>
                     </div>
                 </div>
                 <div class="card">
@@ -176,7 +181,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section id="news">
         <div class="flex-grid"></div>
     </section>
@@ -188,10 +193,10 @@
                     <li><strong>Our Darkuman Branch</strong></li>
                     <li>GA - 464 - 9916</li>
                     <li>Darkuman Road, Accra</li>
-                    <li><a href="tel:+233549708561"><i class="ri-phone-line"></i><span>+233549708561</span></a></li>
-                    <li><a href="mailto:westkhay1982@gmail.com"><i class="ri-mail-line"></i><span>westkhay1982</span></a></li>
-                    <li><a href=""><i class="ri-instagram-line"></i><span>a.charles.wesley</span></a></li>
-                    <li><a href=""><i class="ri-facebook-fill"></i><span>a.charles.wesley</span></a></li>
+                    <li><a href="tel:+233530644335"><i class="ri-phone-line"></i><span>+233 (0) 53 064 4335</span></a></li>
+                    <li><a href="mailto:westkhay1982@gmail.com"><i class="ri-mail-line"></i><span>Melinium Beauty</span></a></li>
+                    <li><a href=""><i class="ri-instagram-line"></i><span>melinium.beauty</span></a></li>
+                    <li><a href=""><i class="ri-facebook-fill"></i><span>melinium.beauty</span></a></li>
                 </ul>
             </div>
             <div class="map">
@@ -220,25 +225,6 @@
             </div>
         </div>
     </section>
-    <!-- <section id="about">
-            <div class="image-container">
-                <img src="assets/images/lady-applying-cream-on-skin.png" alt="">
-            </div>
-            <div class="text">
-                <h3>About</h3>
-                <p>Nestled in the heart of the city, our cosmetic shop is an elegant haven for beauty enthusiasts. With
-                    a chic minimalist layout, it invites customers into a world of the latest makeup trends and
-                    personalized advice. The shelves are a colorful display of renowned brands and hidden gems, creating
-                    an immersive experience for every visitor. The soft hum of beauty consultants adds to the inviting
-                    atmosphere, making it a destination for self-expression and confidence. In our cosmetic shop, allure
-                    and glamour seamlessly converge, offering a curated blend of beauty that captivates all who enter.
-                </p>
-                <div class="buttons">
-                    <a href="" class="btn"><i class="ri-service-line"></i><span>Our Services</span></a>
-                    <a href="" class="btn"><i class="ri-store-2-line"></i><span>Our Shop</span></a>
-                </div>
-            </div>
-        </section> -->
     <section id="feedback">
         <div class="image-container">
             <img src="assets/images/lady-applying-cream-on-skin.png" alt="">
@@ -256,7 +242,7 @@
                     <textarea name="feedback" id="feedback" placeholder="Your message here"></textarea>
                 </div>
                 <div class="field">
-                    <span class="btn"><i class="ri-check-double-line"></i><span>Submit</span></span>
+                    <span class="btn"><i class="ri-send-plane-fill"></i><span>Submit</span></span>
                 </div>
             </form>
         </div>
